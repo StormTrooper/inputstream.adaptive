@@ -20,6 +20,7 @@
 #include "expat.h"
 #include "../helpers.h"
 #include <string.h>
+#include <stdio.h>
 
 namespace adaptive
 {
